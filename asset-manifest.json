@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Saad-Website/static/css/main.073c9b0a.css",
+    "main.js": "/Saad-Website/static/js/main.241b169d.js",
+    "static/js/787.bbe01249.chunk.js": "/Saad-Website/static/js/787.bbe01249.chunk.js",
+    "static/media/logo.svg": "/Saad-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Saad-Website/index.html",
+    "main.073c9b0a.css.map": "/Saad-Website/static/css/main.073c9b0a.css.map",
+    "main.241b169d.js.map": "/Saad-Website/static/js/main.241b169d.js.map",
+    "787.bbe01249.chunk.js.map": "/Saad-Website/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.241b169d.js"
+  ]
+}
